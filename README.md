@@ -17,4 +17,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img src = https://activity-graph.herokuapp.com/graph?username=kiran364&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true>
+<img src= https://activity-graph.herokuapp.com/graph?username=dighetushar654&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true>
