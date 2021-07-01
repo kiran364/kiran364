@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on YouTube.
-- 💬 Ask me about c, c++, javascript, html, css.
+- 💬 Ask me about c, c++, javascript, html, css, Express, nodeJS, mongoDb, SQL Database, Docker
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/feed/?trk=msn-top-in
 - ⚡ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
