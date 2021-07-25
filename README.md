@@ -1,7 +1,7 @@
 ### Hii, I'm  Kiran Kumawat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I’m currently learning Full Stack Web Development.
-- 💬 Ask me about c, c++, javascript, html, css, Express, nodeJS, mongoDb, SQL Database, Docker
+- 💬 Ask me about c, c++, javascript, html, css, Express, nodeJS, mongoDb, SQL Database, Docker.
 - 📫 How to reach me: LinkedIn :- https://www.linkedin.com/in/kiran-kumawat/
 - ⚡ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
