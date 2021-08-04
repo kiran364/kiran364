@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💬 Ask me about c, c++, javascript, html, css, Express, nodeJS, mongoDb, SQL Database, Docker
 - 📫 How to reach me: LinkedIn :- https://www.linkedin.com/in/kiran-kumawat/
-- ⚡ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
